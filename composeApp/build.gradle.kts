@@ -5,7 +5,7 @@ plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsCompose)
     alias(libs.plugins.kotlinSerialization)
-    id("com.google.gms.google-services")
+//    id("com.google.gms.google-services")
 }
 
 kotlin {
